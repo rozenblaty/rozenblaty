@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @rozenblaty
-- 👨🏻‍💻 Product Owner (CSP-PO)
 - 🏢 MediaMarktSaturn
+- 👨🏻‍💻 Product Owner: Search Engine Core + Search Backoffice
+- 🎓 Certified Scrum Professional - Product Owner
 
 <!--- 
 rozenblaty/rozenblaty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
